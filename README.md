@@ -1,4 +1,4 @@
-# Emotion Classification
+# Emotion Detection
  Bachelor Thesis
  
 The problem of recognition of facial expressions is still an ongoing research, and it relies on advancements in Image Processing and Computer Vision techniques. Such
